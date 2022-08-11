@@ -1,5 +1,5 @@
 package com.cjzlxg.Time;
 
-public class App {
+public class Time {
 
 }
